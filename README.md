@@ -17,6 +17,5 @@ QA Engineer • Automation (Selenium, Playwright) • Java • API Testing
 
 ### Pinned projects
 [Postman](https://github.com/kirupakgit/postman-api-testing-practice)
-
-
+[PGAGI Interview Answer](https://github.com/kirupakgit/playwright-js-automation/pull/1/commits)
 **What I’m learning:** Performance testing, advanced Playwright API automation.
